@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Template for crerating User Storys
-title: ''
+title: User Story
 labels: ''
 assignees: ''
 
